@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				523,
-				-95
+				3,
+				-5
 			],
 			"loop": false,
 			"fps": 24,
@@ -14,7 +14,7 @@
 		{
 			"offsets": [
 				-10,
-				-105
+				-5
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				80,
-				97
+				-10,
+				17
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				20,
-				-129
+				10,
+				1
 			],
 			"loop": false,
 			"fps": 24,
@@ -59,20 +59,20 @@
 	"no_antialiasing": false,
 	"image": "characters/finn",
 	"position": [
-		0,
-		0
+		-20,
+		500
 	],
 	"healthicon": "finn",
 	"flip_x": false,
 	"healthbar_colors": [
-		173,
-		191,
-		202
+		255,
+		255,
+		255
 	],
 	"camera_position": [
 		-40,
 		60
 	],
 	"sing_duration": 6.1,
-	"scale": 2
+	"scale": 1.6
 }
